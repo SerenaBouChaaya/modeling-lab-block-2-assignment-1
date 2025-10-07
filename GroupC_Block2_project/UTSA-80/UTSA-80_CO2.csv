@@ -1,0 +1,38 @@
+Key,Value
+Density,0.678215
+Density_unit,g/cm^3
+Estimated_saturation_loading,20.1467628
+Estimated_saturation_loading_unit,mol/kg
+Input_block,"[1.525, 100]"
+Input_ha,DEF
+Input_structure_filename,file.txt.cif
+Input_volpo,"[1.525, 1.525, 100000]"
+Number_of_blocking_spheres,0
+POAV_A^3,9281.93
+POAV_A^3_unit,A^3
+POAV_Volume_fraction,0.64452
+POAV_Volume_fraction_unit,
+POAV_cm^3/g,0.950319
+POAV_cm^3/g_unit,cm^3/g
+PONAV_A^3,0.0
+PONAV_A^3_unit,A^3
+PONAV_Volume_fraction,0.0
+PONAV_Volume_fraction_unit,
+PONAV_cm^3/g,0.0
+PONAV_cm^3/g_unit,cm^3/g
+Unitcell_volume,14401.3
+Unitcell_volume_unit,A^3
+adsorption_energy_widom_average,-16.4103913555
+adsorption_energy_widom_dev,0.0556034545
+adsorption_energy_widom_unit,kJ/mol
+conversion_factor_molec_uc_to_cm3stp_cm3,2.5844373369
+conversion_factor_molec_uc_to_mg_g,7.480399531
+conversion_factor_molec_uc_to_mol_kg,0.170013717
+henry_coefficient_average,1.70683e-05
+henry_coefficient_dev,1.33528e-07
+henry_coefficient_unit,mol/kg/Pa
+is_kh_enough,True
+is_porous,True
+isotherm,"{'pressure': [0.2, 1.4207002977927, 2.90230153283, 4.50230153283, 6.10230153283, 7.70230153283, 9.30230153283, 10.2], 'pressure_unit': 'bar', 'loading_absolute_dev': [0.025401039343677, 0.045204962531366, 0.13504178303403, 0.14332082730561, 0.24887539712441, 0.17768886335105, 0.12660323920376, 0.21881551759347], 'loading_absolute_unit': 'mol/kg', 'loading_absolute_average': [0.33292936131525, 2.3364050051867, 4.9750603964559, 7.906657922802, 10.458563814972, 12.344721493428, 13.837790456807, 14.343266739506], 'enthalpy_of_adsorption_dev': [0.52360983761942, 0.80791002136805, 1.1462447764669, 0.57950326340908, 1.5449329192753, 0.51095004697646, 0.44188608415854, 0.58580208359316], 'enthalpy_of_adsorption_unit': 'kJ/mol', 'enthalpy_of_adsorption_average': [-18.468080117732, -18.31543438677, -18.5683455971, -19.537396423137, -21.7193285276, -22.68873920165, -23.637497277028, -23.979835790244]}"
+temperature,298
+temperature_unit,K

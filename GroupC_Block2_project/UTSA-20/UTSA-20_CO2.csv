@@ -1,0 +1,38 @@
+Key,Value
+Density,0.882399
+Density_unit,g/cm^3
+Estimated_saturation_loading,14.6449176
+Estimated_saturation_loading_unit,mol/kg
+Input_block,"[1.525, 100]"
+Input_ha,DEF
+Input_structure_filename,file.txt.cif
+Input_volpo,"[1.525, 1.525, 100000]"
+Number_of_blocking_spheres,0
+POAV_A^3,3464.47
+POAV_A^3_unit,A^3
+POAV_Volume_fraction,0.60956
+POAV_Volume_fraction_unit,
+POAV_cm^3/g,0.690798
+POAV_cm^3/g_unit,cm^3/g
+PONAV_A^3,0.0
+PONAV_A^3_unit,A^3
+PONAV_Volume_fraction,0.0
+PONAV_Volume_fraction_unit,
+PONAV_cm^3/g,0.0
+PONAV_cm^3/g_unit,cm^3/g
+Unitcell_volume,5683.56
+Unitcell_volume_unit,A^3
+adsorption_energy_widom_average,-19.9186499104
+adsorption_energy_widom_dev,0.0733551123
+adsorption_energy_widom_unit,kJ/mol
+conversion_factor_molec_uc_to_cm3stp_cm3,6.5485801117
+conversion_factor_molec_uc_to_mg_g,14.5682062393
+conversion_factor_molec_uc_to_mol_kg,0.3311046265
+henry_coefficient_average,4.09236e-05
+henry_coefficient_dev,5.89078e-07
+henry_coefficient_unit,mol/kg/Pa
+is_kh_enough,True
+is_porous,True
+isotherm,"{'pressure': [0.2, 0.59897770936134, 1.0866587551957, 1.6948473693976, 2.4719458400767, 3.4949465693002, 4.8931207433194, 6.4931207433194, 8.0931207433194, 9.6931207433194, 10.2], 'pressure_unit': 'bar', 'loading_absolute_dev': [0.074373536052916, 0.10562780676403, 0.1317245941102, 0.10482971439071, 0.2118044062354, 0.094038181984272, 0.1425228509205, 0.1092970604565, 0.096604641920053, 0.17046122213432, 0.1192756956098], 'loading_absolute_unit': 'mol/kg', 'loading_absolute_average': [0.851601099358, 2.5377762426562, 4.3290936600995, 5.7037076274769, 6.74997341437, 7.7917858440365, 8.6434034986259, 9.6028950405289, 10.269069271431, 10.960275012097, 11.05433355887], 'enthalpy_of_adsorption_dev': [0.71670140430521, 1.0786297672794, 1.3396323863211, 1.3057531116709, 2.2929493402509, 0.87941781613496, 1.1713052555436, 2.1057742968081, 2.5822480440332, 1.6508607168691, 2.3095093828207], 'enthalpy_of_adsorption_unit': 'kJ/mol', 'enthalpy_of_adsorption_average': [-22.724404895529, -24.223434519801, -25.515544635953, -25.848704696815, -25.729440023946, -23.125046020304, -22.396843514338, -23.138382263683, -23.34469290697, -23.327095274916, -23.227643361353]}"
+temperature,298
+temperature_unit,K

@@ -1,0 +1,25 @@
+Key,Value
+Density,0.909567
+Density_unit,g/cm^3
+Estimated_saturation_loading,0.0
+Estimated_saturation_loading_unit,mol/kg
+Input_block,"[1.655, 100]"
+Input_ha,DEF
+Input_structure_filename,file.txt.cif
+Input_volpo,"[1.655, 1.655, 100000]"
+Number_of_blocking_spheres,2
+POAV_A^3,0.0
+POAV_A^3_unit,A^3
+POAV_Volume_fraction,0.0
+POAV_Volume_fraction_unit,
+POAV_cm^3/g,0.0
+POAV_cm^3/g_unit,cm^3/g
+PONAV_A^3,2313.74
+PONAV_A^3_unit,A^3
+PONAV_Volume_fraction,0.46406
+PONAV_Volume_fraction_unit,
+PONAV_cm^3/g,0.510199
+PONAV_cm^3/g_unit,cm^3/g
+Unitcell_volume,4985.87
+Unitcell_volume_unit,A^3
+is_porous,False
